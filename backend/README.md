@@ -1,0 +1,1 @@
+# Backend - Eskom Smart Electricity System\n\n## Setup\n\n1. Install dependencies:\n```bash\nnpm install\n```\n\n2. Create .env file:\n```bash\ncp .env.example .env\n```\n\n3. Start development server:\n```bash\nnpm run dev\n```\n\nServer runs on: http://localhost:5000\n
